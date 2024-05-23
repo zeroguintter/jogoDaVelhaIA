@@ -21,7 +21,7 @@ def skin(s):
     elif s=="6":
         x="■"
     elif s=="0":
-        x="☭"
+        x="&"
 
 def skin2(s):
     global x,cor
@@ -431,7 +431,7 @@ while himperador==True:
 
 
 # meu primeiro jogo :P
-#               ~~romulin☭
+#               ~~romulin
 
 #           .    ®    •        .    +      ○      *   
 #    ♫    ♦  *      ○ '   ♪       ♦   ♫    ® '      ♪   •
